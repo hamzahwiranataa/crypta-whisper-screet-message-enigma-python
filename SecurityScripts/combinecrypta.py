@@ -60,4 +60,4 @@ while True:
     chat_data = WhisperChat.get().to_dict().get("oldmessage", "")
     docTransFF = docTransF.get()
     translateF = docTransFF.to_dict()
-    time.sleep(3600)
+    time.sleep(300)
