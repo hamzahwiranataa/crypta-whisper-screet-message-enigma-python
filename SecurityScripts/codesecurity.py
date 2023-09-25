@@ -20,4 +20,4 @@ while True:
     code = {"code": random_code}
     codeaccessDOC.set(code)
     print(str(random_code))
-    time.sleep(3600)
+    time.sleep(300)
