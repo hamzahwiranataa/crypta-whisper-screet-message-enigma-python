@@ -4,9 +4,6 @@
 
 Welcome to CryptaWhisper, an innovative project that empowers users to send confidential messages securely to a server. CryptaWhisper transforms your messages into complex codes reminiscent of the Enigma machine, ensuring the utmost security. Additionally, CryptaWhisper seamlessly decrypts messages upon retrieval, making it an ideal solution for secure internet communication.
 
-## Introduction
-In an age where data privacy and security are paramount, CryptaWhisper emerges as a solution that enables individuals and organizations to communicate confidentially over the internet. Developed by Hamzah Wiranata, this innovative project combines cutting-edge encryption techniques with user-friendly functionality.
-
 ## Key Features
 ### Advanced Encryption
 CryptaWhisper employs robust encryption algorithms to transform your messages into complex codes. This process ensures that your messages remain confidential and resistant to unauthorized access. Additionally, CryptaWhisper automatically updates encryption codes every 5 minutes for added security.
